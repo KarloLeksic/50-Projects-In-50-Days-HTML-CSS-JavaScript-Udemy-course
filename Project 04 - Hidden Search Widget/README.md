@@ -1,0 +1,1 @@
+* Ovo je jako jednostavno, samo CSS i na klik javascript togla klasu
