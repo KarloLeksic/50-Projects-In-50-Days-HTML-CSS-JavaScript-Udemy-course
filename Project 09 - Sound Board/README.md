@@ -1,0 +1,1 @@
+* Ovdje je prepravljeno da se automatski povlace pjesme ovisno koliko ima audio tagova u html-u

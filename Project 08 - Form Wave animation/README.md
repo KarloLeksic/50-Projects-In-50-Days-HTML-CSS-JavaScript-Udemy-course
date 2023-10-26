@@ -1,0 +1,3 @@
+* Za ovo da nam ostane ako ima teksta i da se poboja kad se klikne nam je bitno u CSS-u input:focus i input:valid. U fokusu znaci da je kliknuto na njih, a valid znaci da je ispravno popunjeno. Ako je prazno onda nije valid i onda efekt ne radi, zato u HTML-u stavimo na required i onda radi kako treba.
+* U JavaScriptu je na malo drugaciji nacin objasnjeno kako odvojiti svako slovo u poseban span, bolje nego kod cysecora u kursu za animaciju
+* Ovdje je jos dodan atribut for u label da radi i kad se klikne na tekst za email i password
