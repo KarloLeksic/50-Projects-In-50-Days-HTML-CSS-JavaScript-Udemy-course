@@ -1,0 +1,1 @@
+* Isto tako jako jednostavno, sve je u CSS-u i sa JS se samo togla klasa active

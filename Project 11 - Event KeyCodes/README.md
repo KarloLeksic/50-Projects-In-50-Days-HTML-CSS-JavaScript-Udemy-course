@@ -1,0 +1,1 @@
+* Ovo je jako jednostavno, samo ispisujemo podatke o eventu i prikazujemo ih u html-u
