@@ -1,0 +1,1 @@
+* Nista posebno tesko, vidi se odlican nacin kak se provjeravaju podaci kad se predaju funkcijama

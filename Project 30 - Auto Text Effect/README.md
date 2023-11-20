@@ -1,0 +1,1 @@
+* Jako zanimljiv nacin kako se moze napraviti animirani text

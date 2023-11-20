@@ -1,0 +1,2 @@
+* U CSS-u se napravi da imamo dvije strane i da je velicina slika jednaka velicini prozora tako da se samo jedna vidi
+* Slike su jedna ispod druge kao na traki i samo onda tu traku pomicemo na ono sto zelimo vidjeti sa translateY
