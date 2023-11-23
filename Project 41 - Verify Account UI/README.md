@@ -1,0 +1,2 @@
+* Prebacivanje fokusa automatski na sljedecu ako je unesen ispravan broj, a ako se ide unazad onda se samo obrise to i omoguci se automatski upis novog broja
+* Takoder smo maknuli one strelice za povecanje i smanjivanje brojeva

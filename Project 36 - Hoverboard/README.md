@@ -1,0 +1,1 @@
+* Poprilicno jednostavno, samo eventi za misa kad prekrije i kad se makne

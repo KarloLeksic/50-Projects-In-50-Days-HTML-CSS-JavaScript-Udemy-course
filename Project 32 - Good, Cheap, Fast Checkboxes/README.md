@@ -1,0 +1,1 @@
+* Jos malo rada sa animacijama i ideja kako se rade inputi da izgledaju ko slideri

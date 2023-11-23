@@ -1,0 +1,1 @@
+* Animacije se u CSS-u napravi na nacin da se samo promijene transform delay kada se vidi i kada se ne vidi

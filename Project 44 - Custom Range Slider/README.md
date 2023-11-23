@@ -1,0 +1,1 @@
+* Ovdje ima par stvari koje vidimo da nisu iste u svim browserima pa treba za svaki posebno stilizirat

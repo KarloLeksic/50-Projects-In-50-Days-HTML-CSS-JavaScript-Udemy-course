@@ -1,0 +1,1 @@
+* Generiranje konacne lozinke i kopiranje u clipboard je napravljeno na bas glup nacin pa sam napravio kako mislim da je bolje

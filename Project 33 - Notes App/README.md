@@ -1,0 +1,1 @@
+* Koristenje local storage-a i marked JS libraryja za parsanje md sintakse

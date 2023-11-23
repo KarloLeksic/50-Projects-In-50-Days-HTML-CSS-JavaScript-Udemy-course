@@ -1,0 +1,1 @@
+* Jednostavno mijenjanje slika ovisno o stisnutom gumbu
